@@ -1,0 +1,19 @@
+{
+  "name": "game-division",
+  "version": "1.0.0",
+  "description": "nodeJS game Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeff-mccommas/game-division.git"
+  },
+  "author": "Jeffrey McCommas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeff-mccommas/game-division/issues"
+  },
+  "homepage": "https://github.com/jeff-mccommas/game-division#readme"
+}
