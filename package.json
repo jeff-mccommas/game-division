@@ -1,21 +1,17 @@
 {
-  "name": "game-division",
+  "name": "x_project_thegamedivision",
   "version": "1.0.0",
-  "description": "nodeJS game Application",
+  "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node server/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jeff-mccommas/game-division.git"
+  "engines": {
+    "node": "9.5.0"
   },
-  "author": "Jeffrey McCommas",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jeff-mccommas/game-division/issues"
-  },
-  "homepage": "https://github.com/jeff-mccommas/game-division#readme",
   "dependencies": {
     "bcrypt": "^1.0.3",
     "body-parser": "^1.18.2",
