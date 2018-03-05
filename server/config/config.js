@@ -5,7 +5,7 @@ const config = {
         PORT: process.env.PORT
     },
     default:{
-        SECRET: 'fufuuy85785fsdtfd',
+        SECRET: 'SLDKF0DF8AD8GSC343434',
         DATABASE:'mongodb://localhost:27017/tgd_app',
         PORT: 3000
     }
